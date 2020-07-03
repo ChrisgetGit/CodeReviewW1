@@ -18,7 +18,7 @@ public class Review {
         System.out.println("The rectangular with a height of 5 and a width of 10 has an area of: \n" +10*5); //example 2:basic solution
 
 
-        calculateRectArea(30,20);                          //example 3(2): executing method (rectangular)
+        calculateRectArea(30,20);                          //example 3(2): executing method (rectangular Calculation)
         calculateRectArea(50,40);
         calculateRectArea(42, 42);                         //example 5: execute method at least 3 times
         calculateRectArea(50,60);
