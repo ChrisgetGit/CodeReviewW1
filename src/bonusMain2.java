@@ -1,6 +1,6 @@
 public class bonusMain2 {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) {                      //passed arguments to main method via editing run configuration
         int height = Integer.parseInt(args[0]);                   //change str to int
         int width = Integer.parseInt(args[1]);                    //change str to int
         System.out.println("The height is: "+height);
